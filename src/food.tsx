@@ -1,0 +1,17 @@
+export const food = `
+- Apple: 95 kcal, 1 medium (182g)
+- Banana: 105 kcal, 1 medium (118g)
+- Chicken Breast: 165 kcal, 3 oz (85g)
+- Broccoli: 55 kcal, 1 cup (91g)
+- Almonds: 164 kcal, 1 oz (28g)
+- Brown Rice: 218 kcal, 1 cup (195g)
+- Salmon: 233 kcal, 3 oz (85g)
+- Egg: 78 kcal, 1 large (50g)
+- Oatmeal: 154 kcal, 1 cup cooked (234g)
+- Greek Yogurt: 100 kcal, 1 container (170g)
+- Avocado: 234 kcal, 1 medium (150g)
+- Sweet Potato: 103 kcal, 1 medium (130g)
+- Spinach: 23 kcal, 1 cup (30g)
+- Quinoa: 222 kcal, 1 cup cooked (185g)
+- Blueberries: 85 kcal, 1 cup (148g)
+`;
